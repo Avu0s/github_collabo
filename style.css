@@ -65,10 +65,10 @@ h2{
     font-weight: 400;
     font-size: 1rem;
 }
-@media (min-width: 760px){
-   section{
-       flex-direction: row;
-       max-width: 50vw;
-       flex-wrap: wrap;
-    }
-}
+@media (min-width: 375px){
+    section{
+        flex-direction: row;
+        max-width: 60vw;
+        flex-wrap: wrap;
+     }
+ }
