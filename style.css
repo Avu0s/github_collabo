@@ -64,6 +64,12 @@ h2{
     font-weight: 400;
     font-size: 1rem;
 }
+#avos{
+    background-color: rgb(41, 7, 44);
+}
+
+/** Place your selector above this comment **/
+
 @media (min-width: 375px){
     section{
         flex-direction: row;
