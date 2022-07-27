@@ -68,6 +68,9 @@ h2{
     background-color: rgb(41, 7, 44);
 }
 
+#card{
+    background-color: rgb(14, 6, 35); 
+}
 /** Place your selector above this comment **/
 
 @media (min-width: 375px){
