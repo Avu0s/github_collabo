@@ -1,7 +1,9 @@
 # github_collabo
+
 This repo is to help my team get familiar with project collaboration on github.
 
-To participate: 
+To participate:
+
 1. Fork this repo to copy it.
 2. In the index.html file, follow the instructions there and add your name.
 3. Add an id to your div, use it as a CSS selector to change the background color, preferably a dark one.

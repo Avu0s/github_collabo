@@ -71,6 +71,9 @@ h2{
 #card{
     background-color: rgb(14, 6, 35); 
 }
+#ringnyu{
+    background-color: rgb(101, 93, 138)
+}
 /** Place your selector above this comment **/
 
 @media (min-width: 375px){
