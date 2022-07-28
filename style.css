@@ -67,17 +67,16 @@ h2 {
 #avos {
   background-color: rgb(41, 7, 44);
 }
-
 #card {
   background-color: rgb(14, 6, 35);
 }
 #ringnyu {
   background-color: rgb(101, 93, 138);
 }
-
 #moses {
   background-color: rgb(13, 5, 31);
 }
+
 /** Place your selector above this comment **/
 
 @media (min-width: 375px) {
