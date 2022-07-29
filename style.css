@@ -76,7 +76,9 @@ h2 {
 #moses {
     background-color: rgb(13, 5, 31);
 }
-
+#israel {
+    background-color: rgb(16, 8, 40);
+}
 /** Place your selector above this comment **/
 
 @media (min-width: 375px) {
