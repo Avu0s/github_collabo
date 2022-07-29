@@ -4,7 +4,6 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
-
 :root {
     --black: #222;
     --yt: #fdfcfa;
@@ -12,7 +11,6 @@
     --bxShd: 0 1px 6px 0 rgba(102, 103, 104, 0.445);
     --div: 150px;
 }
-
 body {
     display: flex;
     flex-direction: column;
@@ -20,7 +18,6 @@ body {
     width: 100vw;
     background: #dadada;
 }
-
 header {
     height: 10vh;
     display: flex;
@@ -29,24 +26,20 @@ header {
     background-color: var(--black);
     margin-bottom: 1rem;
 }
-
 nav {
     color: var(--yt);
 }
-
 main {
     display: flex;
     justify-content: center;
     align-items: center;
 }
-
 section {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
-
 .card {
     cursor: pointer;
     min-width: var(--div);
@@ -62,38 +55,30 @@ section {
     background: var(--black);
     color: var(--yt);
 }
-
 .avatar {
     height: 4rem;
     width: 4rem;
     border-radius: 50%;
 }
-
 h2 {
     font-weight: 400;
     font-size: 1rem;
 }
-
 #avos {
     background-color: rgb(41, 7, 44);
 }
-
 #card {
     background-color: rgb(14, 6, 35);
 }
-
 #ringnyu {
     background-color: rgb(101, 93, 138);
 }
-
 #moses {
     background-color: rgb(13, 5, 31);
 }
-
 #josh {
     background-color: var(--black);
 }
-
 
 /** Place your selector above this comment **/
 
