@@ -1,46 +1,53 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: sans-serif;
 }
-:root{
-    --black:#222;
-    --yt:#fdfcfa;
-    --brdRd: .25rem ;
+
+:root {
+    --black: #222;
+    --yt: #fdfcfa;
+    --brdRd: .25rem;
     --bxShd: 0 1px 6px 0 rgba(102, 103, 104, 0.445);
     --div: 150px;
 }
-body{
+
+body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
     width: 100vw;
     background: #dadada;
 }
-header{
+
+header {
     height: 10vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color:var(--black);
+    background-color: var(--black);
     margin-bottom: 1rem;
 }
-nav{
+
+nav {
     color: var(--yt);
 }
-main{
+
+main {
     display: flex;
     justify-content: center;
-    align-items: center; 
+    align-items: center;
 }
-section{
+
+section {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
-.card{
+
+.card {
     cursor: pointer;
     min-width: var(--div);
     min-height: var(--div);
@@ -55,28 +62,36 @@ section{
     background: var(--black);
     color: var(--yt);
 }
-.avatar{
+
+.avatar {
     height: 4rem;
     width: 4rem;
     border-radius: 50%;
 }
-h2{
+
+h2 {
     font-weight: 400;
     font-size: 1rem;
 }
-#avos{
+
+#avos {
     background-color: rgb(41, 7, 44);
 }
 
-#card{
-    background-color: rgb(14, 6, 35); 
+#card {
+    background-color: rgb(14, 6, 35);
 }
+
+#israel {
+    background-color: rgb(16, 8, 40);
+}
+
 /** Place your selector above this comment **/
 
-@media (min-width: 375px){
-    section{
+@media (min-width: 375px) {
+    section {
         flex-direction: row;
         max-width: 60vw;
         flex-wrap: wrap;
-     }
- }
+    }
+}
