@@ -10,4 +10,4 @@ To participate:
 4. Add any photo as avatar, preferably under 100kb. Place the photo in the "img" folder.
 5. Confirm your card appears on the live page.
 6. Push your updates to your branch.
-7. Make a pull request to merge with the master branch..
+7. Make a pull request to merge with the master branch.
