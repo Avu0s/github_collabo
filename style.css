@@ -43,7 +43,6 @@ section {
 .card {
   cursor: pointer;
   min-width: var(--div);
-  min-height: var(--div);
   display: flex;
   flex-direction: column;
   justify-content: space-around;
