@@ -77,10 +77,11 @@ h2 {
   background-color: rgb(13, 5, 31);
 }
 #israel {
-    background-color: rgb(16, 8, 40);
+  background-color: rgb(16, 8, 40);
 }
 #emma {
   background-color: rgb(0, 77, 51);
+  font-weight: bold;
 }
 
 /** Place your selector above this comment **/
