@@ -43,6 +43,7 @@ section {
 .card {
   cursor: pointer;
   min-width: var(--div);
+  min-height: var(--div);
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -55,7 +56,6 @@ section {
   color: var(--yt);
 }
 .avatar {
-  height: 4rem;
   width: 4rem;
   border-radius: 50%;
 }
