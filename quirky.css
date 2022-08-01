@@ -56,14 +56,21 @@ section {
   color: var(--yt);
 }
 .avatar {
-  width: 4rem;
-  height: 4rem;
+  min-width: 4rem;
+  min-height: 4rem;
   border-radius: 50%;
   background: red;
 }
 h2 {
   font-weight: 400;
   font-size: 1rem;
+}
+#image{
+  min-width: 4rem;
+  min-height: 4rem;
+  border-radius: 50%;
+  background: red;
+  z-index: 3;
 }
 #avos {
   background-color: rgb(41, 7, 44);
