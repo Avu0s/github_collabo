@@ -56,7 +56,7 @@ section {
   color: var(--yt);
 }
 .avatar {
-  width: 4rem;
+  max-width: 4rem;
   max-height: 4rem;
   border-radius: 50%;
 }
