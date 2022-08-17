@@ -12,3 +12,5 @@ To participate:
 6. Confirm your card appears on the live page.
 7. Push your updates to your branch.
 8. Make a pull request to merge with the master branch.
+ 
+   Give this repo a 🌟 if it helps you. 🙂👍
